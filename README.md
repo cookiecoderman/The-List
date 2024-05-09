@@ -3,8 +3,6 @@ Enjoy
 
 Quality Games
 
-https://metallic.eu.org/games
-
 https://op1umm.pages.dev/games
 
 https://opium-games.onrender.com/

@@ -3,6 +3,8 @@ Enjoy
 
 Quality Games
 
+https://v4j.vercel.app/settings.html
+
 https://seraph-ochre.vercel.app/games/index.html
 
 [v4-peach-mu.vercel.app](https://v4-peach-mu.vercel.app/gs.html)
